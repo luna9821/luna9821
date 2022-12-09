@@ -4,13 +4,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Nayeon Park</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
 <header>
-  <h1>Assignment </h1>
+  <h1>Assignment by Nayeon Park</h1>
   <nav>
   <a href="#quesions">Questions</a> |
   <a href="#graph">Graph</a> |
