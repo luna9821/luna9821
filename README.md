@@ -18,7 +18,7 @@
   <a href="#answers">Answers to the Questions</a>
   </nav>
 </header>
-<!->These are the hypothesis questions</!->
+<!--These are the hypothesis questions-->
 <div>
   <p></p>
   <ol id="questions">Questions:
