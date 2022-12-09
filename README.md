@@ -26,13 +26,13 @@
     <li>Is there any correlation between computer science and vocational support?</li>
   </ol>
 </div>
-<!-> This is a graph </!->
+<!-- This is a graph -->
 <img class="graph" width="921" alt="Screen Shot 2022-12-08 at 4 34 19 PM" src="https://user-images.githubusercontent.com/120129545/206593230-7cc14282-a30b-4f0a-8e3f-b1ac2e376152.png" alt="graph">
 
 
 <h3><p>Performance_Metrics_-_Family___Support_Services_-_Youth_Services_Program_Monthly_Utilization</h3></p>
   
-<!->This is the table</!->
+<!--This is the table -->
 <table id="data"class="table table-bordered table-hover table-condensed">
 <tbody><tr>
 <td>Month</td>
@@ -705,7 +705,7 @@
 <td>663</td>
 </tr>
 </tbody></table>
-<!->This is the answers to the questions</!->
+<!--This is the answers to the questions-->
   <h3 id="answers">Answers to the Quesitons</h3>
     <ol>
       <li>According to the table and graph, the number of youth people enrolling in computer science each month increases to Apr	2013. The maximum enrollment was 1537. After April 2013, the number of youth people enrolling in computer science decreased. </li>
